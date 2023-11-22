@@ -9,7 +9,8 @@ Right click the python script, click Open In Terminal. Do not launch by python l
 
 HOW TO USE
 1: Download python here: https://www.python.org/downloads/windows/
-2: Click Code > Download Zip
+(ON THE INSTALLER, click Add to Path for the command to work.)
+2: On github, click Code > Download Zip
 3: Extract the zip and move to downloads or wherever you want to move it
 4: left click an empty space on the folder and click open in terminal (or command prompt)
 command instead: cd (path of script here)
